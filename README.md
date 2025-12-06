@@ -5,65 +5,47 @@
 </p>
 
 <p align="center">
-  💻 Desarrollador Backend en formación, apasionado por construir soluciones eficientes y escalables.  
-  🎯 Enfocado en JavaScript moderno, Node.js, Express y bases de datos como MongoDB y SQL Server.  
-  🚀 Aprendiz constante, con mentalidad disciplinada y enfoque en resultados reales.
+💻 Desarrollador Backend con experiencia en Frontend moderno <br>
+🎯 Apasionado por construir soluciones eficientes y escalables, tanto en servidor como en interfaz de usuario <br>
+🚀 Experiencia en Node.js, Express, bases de datos y desarrollo de interfaces con React y TypeScript
 </p>
 
 ---
 
-<h2 align="center">🚀 Tech Stack & Skills</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <!-- JavaScript -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=javascript">
-    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript">
-  </a>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git" width="40"/>
+</p>
 
-  <!-- Node.js -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=nodejs">
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
-  </a>
+---
 
-  <!-- Express -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=express">
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express">
-  </a>
+<h2 align="center">📂 Projects</h2>
 
-  <!-- MongoDB -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=mongodb">
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-  </a>
+<p align="center">
+<a href="https://github.com/kleyderBackend/project1" target="_blank">Backend API REST</a> - Node.js + Express + MongoDB <br>
+<a href="https://github.com/kleyderBackend/project2" target="_blank">Dashboard Frontend</a> - React + TypeScript + CSS <br>
+<a href="https://github.com/kleyderBackend/project3" target="_blank">Fullstack Demo</a> - Node.js + React + SQL Server
+</p>
 
-  <!-- SQL Server -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=sql">
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server">
-  </a>
+---
 
-  <!-- Django -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=python">
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django">
-  </a>
+<h2 align="center">🎯 Learning Path</h2>
 
-  <!-- Python -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=python">
-    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
-  </a>
-
-  <!-- HTML -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=html">
-    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML">
-  </a>
-
-  <!-- CSS -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=css">
-    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS">
-  </a>
-
-  <!-- Git -->
-  <a href="https://github.com/kleyderBackend?tab=repositories&q=&type=&language=git">
-    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git">
-  </a>
+<p align="center">
+- Backend: Node.js avanzado, Express, bases de datos SQL y NoSQL <br>
+- Frontend: React, TypeScript, Hooks, Context API, consumo de APIs <br>
+- Buenas prácticas: Clean Code, Testing, Arquitectura escalable <br>
+- Desarrollo Fullstack y despliegue de aplicaciones
 </p>
 
 ---
@@ -81,5 +63,10 @@
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
-correo:kleyderdavila0@gmail.com
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  📧 <a href="mailto:kleyderdavila0@gmail.com">kleyderdavila0@gmail.com</a> <br>
+  <a href="https://www.linkedin.com/in/kleyderdavila" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/kleyderBackend" target="_blank">GitHub</a>
+</p>
