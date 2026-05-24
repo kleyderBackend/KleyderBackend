@@ -115,31 +115,16 @@ const kleyder: FullstackDev = {
 - Admin: supervision, moderacion y reportes
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kleyderBackend&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c8d7&icon_color=00c8d7&text_color=c9d1d9&ring_color=00c8d7" height="180" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyderBackend&layout=compact&langs_count=8&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c8d7&text_color=c9d1d9" height="180" alt="Top Languages"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleyderBackend&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&_=${Date.now()})
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleyderBackend&layout=compact&theme=radical&hide_border=true&_=${Date.now()})
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=kleyderBackend&theme=radical&hide_border=true&background=0d1117&ring=00c8d7&fire=ff4757&currStreakLabel=00c8d7&sideLabels=00c8d7&dates=8b949e" width="60%" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kleyderBackend&bg_color=0d1117&color=00c8d7&line=00c8d7&point=ff4757&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
+--
 ## 🏆 GitHub Trophies
 
 <div align="center">
